@@ -17,7 +17,7 @@
     - 然后进入"系统和安全", 单击"管理工具", 双击打开"Internet Information Services(IIS)管理器", 弹出管理器界面;
  
     - 在左侧"连接"的导航栏可以看到自己的计算机名称, 单击"网站"里的"Default Web Site", 然后单击右侧"操作"界面下的"浏览 \*:80(http)", 后弹出一个网页, 没有错误信息则说明IIS已正常运行.
- ![image of one](/成功启用IIS界面.png)
+ ![image of one](/Success.png)
  
  2. 安装并启用wfastcgi.py模块:
  
